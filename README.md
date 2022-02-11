@@ -38,3 +38,4 @@ Each file contains the following attributes:
 bash run_primary.sh SEEDS cuda_device
 ```
 where SEEDS is the number of seeds and cuda_device is the number of device corresponding to the desired config file.
+ 
