@@ -11,7 +11,7 @@ We suggest a novel loss function, WOCEL (weighted ordinal cross entropy loss), m
 3. [Pytorch](https://pytorch.org/)
 4. [Transformers](https://pytorch.org/hub/huggingface_pytorch-transformers/)
 5. [Keras (Version 2.4.3)](https://keras.io/)
-6. 7. The same as described in [SentiLARE](https://github.com/thu-coai/SentiLARE) (only if you are interested in running SentiLARE).
+6. The same as described in [SentiLARE](https://github.com/thu-coai/SentiLARE) (only if you are interested in running SentiLARE).
 
 
 ## Getting Started
